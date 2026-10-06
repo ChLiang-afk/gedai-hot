@@ -93,8 +93,10 @@ async function askModels(prompt, validate) {
     for (const model of provider.models) {
       for (let attempt = 1; attempt <= 3; attempt++) {
         try {
+          // 免费接口会对相同 prompt 缓存结果，加随机编号保证每次都是新采样
+          const nonce = Math.random().toString(36).slice(2, 10);
           console.log(`调用模型 ${provider.name}/${model}（第${attempt}次）...`);
-          const out = parseJson(await callModel(provider, model, prompt));
+          const out = parseJson(await callModel(provider, model, `${prompt}\n[请求编号${nonce}，此行与任务无关，请忽略]`));
           validate(out);
           console.log(`✓ ${provider.name}/${model} 返回有效`);
           return out;
