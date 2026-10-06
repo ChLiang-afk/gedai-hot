@@ -17,6 +17,7 @@ const SEEN_FILE = path.join(DATA_DIR, "seen.json");
 const SEEN_KEEP_DAYS = 30;
 
 // 多供应商配置：按环境变量自动启用（GitHub Models 已于2026-07-30退役）
+// Pollinations 免费免Key兜底（最后优先级）：无任何 Key 也能跑；配置了上面的 Key 则优先用 Key 的供应商
 function getProviders() {
   const p = [];
   if (process.env.ZHIPU_API_KEY)
@@ -28,6 +29,8 @@ function getProviders() {
   if (process.env.OPENROUTER_API_KEY)
     p.push({ name: 'OpenRouter', url: 'https://openrouter.ai/api/v1/chat/completions',
       key: process.env.OPENROUTER_API_KEY, models: ['deepseek/deepseek-chat:free'] });
+  p.push({ name: 'Pollinations', url: 'https://text.pollinations.ai/openai',
+    key: 'none', models: ['openai'] });
   return p;
 }
 const CATS = ["macro", "mortgage", "sme", "consumer", "risk", "tech"];
