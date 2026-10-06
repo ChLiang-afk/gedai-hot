@@ -91,15 +91,17 @@ async function askModels(prompt, validate) {
   let lastErr = null;
   for (const provider of getProviders()) {
     for (const model of provider.models) {
-      try {
-        console.log(`调用模型 ${provider.name}/${model} ...`);
-        const out = parseJson(await callModel(provider, model, prompt));
-        validate(out);
-        console.log(`✓ ${provider.name}/${model} 返回有效`);
-        return out;
-      } catch (e) {
-        lastErr = e;
-        console.error(`✗ ${e.message.slice(0, 160)}`);
+      for (let attempt = 1; attempt <= 3; attempt++) {
+        try {
+          console.log(`调用模型 ${provider.name}/${model}（第${attempt}次）...`);
+          const out = parseJson(await callModel(provider, model, prompt));
+          validate(out);
+          console.log(`✓ ${provider.name}/${model} 返回有效`);
+          return out;
+        } catch (e) {
+          lastErr = e;
+          console.error(`✗ ${e.message.slice(0, 160)}`);
+        }
       }
     }
   }
