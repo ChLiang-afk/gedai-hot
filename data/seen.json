@@ -1,20 +1,5 @@
 {
  "urls": {
-  "https://finance.sina.com.cn/roll/2026-09-16/doc-inirzwqx0441466.shtml": "2026-09-17",
-  "https://finance.sina.com.cn/money/bank/bank_hydt/2026-09-16/doc-inirzwqy9773294.shtml": "2026-09-17",
-  "https://finance.sina.com.cn/money/bank/gsdt/2026-09-16/doc-inirzsia9884308.shtml": "2026-09-17",
-  "https://finance.sina.com.cn/roll/2026-09-16/doc-inirzsia9873860.shtml": "2026-09-17",
-  "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirzshv4696680.shtml": "2026-09-17",
-  "https://finance.sina.com.cn/money/bank/gsdt/2026-09-16/doc-inirzshu2747892.shtml": "2026-09-17",
-  "https://finance.sina.com.cn/money/bank/gsdt/2026-09-16/doc-inirzshu2747517.shtml": "2026-09-17",
-  "https://finance.sina.com.cn/roll/2026-09-16/doc-inirzshx3689125.shtml": "2026-09-17",
-  "https://finance.sina.com.cn/money/bank/gsdt/2026-09-16/doc-inirzshz0465608.shtml": "2026-09-17",
-  "https://finance.sina.com.cn/roll/2026-09-16/doc-inirzmyz3798383.shtml": "2026-09-17",
-  "https://finance.sina.com.cn/jryx/bank/2026-09-16/doc-inirzmyw2847087.shtml": "2026-09-17",
-  "https://finance.sina.com.cn/stock/relnews/cn/2026-09-16/doc-inirzmyw2847734.shtml": "2026-09-17",
-  "https://finance.sina.com.cn/money/bank/gsdt/2026-09-16/doc-inirzmyz3721685.shtml": "2026-09-17",
-  "https://finance.sina.com.cn/money/bank/bank_hydt/2026-09-16/doc-inirzfsy2918416.shtml": "2026-09-17",
-  "https://finance.sina.com.cn/money/bank/gsdt/2026-09-16/doc-inirzfsw3439765.shtml": "2026-09-17",
   "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisefvv0388082.shtml": "2026-09-18",
   "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisczpv3668036.shtml": "2026-09-18",
   "https://finance.sina.com.cn/jjxw/2026-09-17/doc-inisczpx0385933.shtml": "2026-09-18",
@@ -179,24 +164,13 @@
   "https://finance.sina.com.cn/roll/2026-10-16/doc-inivmazi7713189.shtml": "2026-10-17",
   "http://bank.eastmoney.com/a/202610173898791691.html": "2026-10-17",
   "http://bank.eastmoney.com/a/202610163898734456.html": "2026-10-17",
-  "https://finance.sina.com.cn/money/bank/bank_hydt/2026-10-16/doc-inivmiif7727824.shtml": "2026-10-17"
+  "https://finance.sina.com.cn/money/bank/bank_hydt/2026-10-16/doc-inivmiif7727824.shtml": "2026-10-17",
+  "https://www.21jingji.com/article/20261017/herald/efe8f2487e0e86df01b78a19d9878c3f.html": "2026-10-18",
+  "https://news.qq.com/rain/a/20261017A049HO00": "2026-10-18",
+  "https://finance.sina.com.cn/roll/2026-10-17/doc-inivpnhp8142341.shtml": "2026-10-18",
+  "https://finance.sina.com.cn/jjxw/2026-10-17/doc-inivnvkm6609363.shtml": "2026-10-18"
  },
  "fps": {
-  "重大疾病可提取公积金多地扩大公积金使用范围": "2026-09-17",
-  "又有两家出手消金机构个贷利率上限向20靠拢": "2026-09-17",
-  "免费领手机后突然多了一笔分期贷款电信橙分期再引争": "2026-09-17",
-  "民营银行逆势上调存款利率5年期存款也渐次回归": "2026-09-17",
-  "利率骤然飙升购房者抵押贷款需求同比下降19": "2026-09-17",
-  "贷款还清征信记录仍在富民银行助贷业务引质疑": "2026-09-17",
-  "青岛银行清退互联网合作消费贷背后零售不良贷款24": "2026-09-17",
-  "利率优势消退大行大额存单向普通定存靠拢": "2026-09-17",
-  "4家机构年内被罚消费金融信用信息管理为何成合规雷": "2026-09-17",
-  "潘功胜回应信贷失速焦虑金融支持实体不能只看贷款增": "2026-09-17",
-  "四川农村商业联合银行原副行长刘杰违法发放贷款非国": "2026-09-17",
-  "云南锗业控股孙公司申请217亿元固定资产贷款": "2026-09-17",
-  "银行不良生成率排行榜谁正在变坏谁有所好转": "2026-09-17",
-  "银行催收找人难催热找地址生意": "2026-09-17",
-  "平台月付将退出支付选项引发热议新规重在将信贷产品": "2026-09-17",
   "学生贷款正在悄悄掏空你的退休储备40多岁人群受冲": "2026-09-18",
   "巴西央行连续第五次降息基准利率降至1375": "2026-09-18",
   "利率向普通定存靠拢大额存单红利缩水银行不缺钱了": "2026-09-18",
@@ -371,6 +345,10 @@
   "多家银行严控贷款违规流向AI大数据盯紧低息套利": "2026-10-17",
   "新规落地首周助贷多层分销落幕隐形导流转向": "2026-10-17",
   "不良考核下的垫付暗流客户经理自掏腰包替客户还利息": "2026-10-17",
-  "央行修订企业征信机构备案管理办法11月15日起施": "2026-10-17"
+  "央行修订企业征信机构备案管理办法11月15日起施": "2026-10-17",
+  "蚂蚁消金挂牌转让3645亿元逾期债权涉及1478": "2026-10-18",
+  "助贷行业大裁员4000人裁掉八成二季度放款规模降": "2026-10-18",
+  "安顺通报三起公积金骗提骗贷案多人记失信名单移送公": "2026-10-18",
+  "山西打掉4个涉恶团伙软暴力催收高利赌债团伙覆灭": "2026-10-18"
  }
 }
