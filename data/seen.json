@@ -1,6 +1,5 @@
 {
   "urls": {
-    "https://www.stats.gov.cn/sj/zxfb/202609/t20260915_1965310.html": "2026-09-20",
     "https://finance.sina.com.cn/roll/2026-09-20/doc-inisnnky6637911.shtml": "2026-09-21",
     "https://finance.sina.com.cn/roll/2026-09-20/doc-inisnnky6627516.shtml": "2026-09-21",
     "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1272131&itemId=915": "2026-09-21",
@@ -146,10 +145,14 @@
     "https://changsha.voc.com.cn/news/202610/33992633.html": "2026-10-20",
     "https://finance.sina.cn/2026-10-19/detail-inivueuh0879539.d.html": "2026-10-20",
     "https://finance.sina.cn/2026-10-16/detail-inivkwtt8408614.d.html": "2026-10-20",
-    "https://www.163.com/dy/article/L99ITTBQ0519QIKK.html": "2026-10-20"
+    "https://www.163.com/dy/article/L99ITTBQ0519QIKK.html": "2026-10-20",
+    "http://forex.eastmoney.com/a/202610213901746179.html": "2026-10-21",
+    "http://forex.eastmoney.com/a/202610213901749082.html": "2026-10-21",
+    "http://bank.eastmoney.com/a/202610203901675751.html": "2026-10-21",
+    "http://finance.eastmoney.com/a/202610203901619191.html": "2026-10-21",
+    "https://finance.sina.com.cn/stock/relnews/hk/2026-10-20/doc-inivwcmm7725648.shtml": "2026-10-21"
   },
   "fps": {
-    "2026年18月份全国房地产市场基本情况": "2026-09-20",
     "各地住房公积金新政相继落地有城市支持公积金全国买": "2026-09-21",
     "LPR连续16个月持平央行主管媒体刊评直接下调政": "2026-09-21",
     "丁向群会见友邦保险集团董事会主席杜嘉祺": "2026-09-21",
@@ -305,6 +308,11 @@
     "长沙公积金新政10月23日落地装修最高提216万": "2026-10-20",
     "莆田三家银行因个人贷款管理不到位被罚最高95万元": "2026-10-20",
     "中行富阳支行信用卡及消费贷管理不审慎被罚20万责": "2026-10-20",
-    "杭州省直公积金新政施行装修提取最高25万多子女家": "2026-10-20"
+    "杭州省直公积金新政施行装修提取最高25万多子女家": "2026-10-20",
+    "LPR连续17个月保持不变畅通传导路径贷款利率定": "2026-10-21",
+    "政策利率换锚不是变相降息": "2026-10-21",
+    "AI大数据介入贷后审核多家银行严控贷款违规流动": "2026-10-21",
+    "幸福消费金融被取消高新技术企业资格": "2026-10-21",
+    "告别八年规模扩张持牌消金2026年迎K型分化": "2026-10-21"
   }
 }
