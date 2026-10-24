@@ -1,15 +1,5 @@
 {
   "urls": {
-    "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1273095&itemId=925": "2026-09-24",
-    "https://finance.sina.com.cn/tob/2026-09-23/doc-inisuxfz6146803.shtml": "2026-09-24",
-    "https://finance.sina.com.cn/jjxw/2026-09-23/doc-inisunsp1457925.shtml": "2026-09-24",
-    "https://finance.sina.com.cn/stock/usstock/c/2026-09-23/doc-inisvqcx5252351.shtml": "2026-09-24",
-    "https://finance.sina.com.cn/stock/wbstock/2026-09-23/doc-inisvcqf1204045.shtml": "2026-09-24",
-    "https://finance.sina.com.cn/roll/2026-09-23/doc-inisvcqf1218824.shtml": "2026-09-24",
-    "https://finance.sina.com.cn/jjxw/2026-09-23/doc-inisuxhf5306305.shtml": "2026-09-24",
-    "https://finance.sina.com.cn/money/bank/gsdt/2026-09-23/doc-inisvqct5919793.shtml": "2026-09-24",
-    "https://finance.sina.com.cn/money/bank/bank_hydt/2026-09-23/doc-inisvcqc5282531.shtml": "2026-09-24",
-    "https://finance.sina.com.cn/stock/usstock/c/2026-09-23/doc-inisuxhc8540729.shtml": "2026-09-24",
     "https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisxnuv5216586.shtml": "2026-09-25",
     "https://finance.sina.com.cn/china/2026-09-24/doc-inisxnvc0363286.shtml": "2026-09-25",
     "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1273344&itemId=4113": "2026-09-25",
@@ -140,19 +130,15 @@
     "http://bank.eastmoney.com/a/202610233906215691.html": "2026-10-24",
     "http://bank.eastmoney.com/a/202610233906701096.html": "2026-10-24",
     "https://finance.sina.com.cn/jryx/fd/2026-10-23/doc-iniwffes2646182.shtml": "2026-10-24",
-    "https://finance.sina.com.cn/jryx/fd/2026-10-23/doc-iniweuqw2691892.shtml": "2026-10-24"
+    "https://finance.sina.com.cn/jryx/fd/2026-10-23/doc-iniweuqw2691892.shtml": "2026-10-24",
+    "http://forex.eastmoney.com/a/202610253907136712.html": "2026-10-25",
+    "http://forex.eastmoney.com/a/202610253907136295.html": "2026-10-25",
+    "http://forex.eastmoney.com/a/202610243907112540.html": "2026-10-25",
+    "http://forex.eastmoney.com/a/202610203901320677.html": "2026-10-25",
+    "http://finance.eastmoney.com/a/202610243907077841.html": "2026-10-25",
+    "https://finance.sina.com.cn/jryx/bank/2026-10-23/doc-iniwffeq1907686.shtml": "2026-10-25"
   },
   "fps": {
-    "国家金融监督管理总局关于印发全国银行业保险业开展": "2026-09-24",
-    "个人贷款息费明示规范再细化消费金融透明化能力进入": "2026-09-24",
-    "828新政后首例这家农商行明确房贷最长期限30年": "2026-09-24",
-    "抵押贷款利率飙升突破7上周近10借款人选择风险更": "2026-09-24",
-    "全款86折低首付95折北京新政后首批新盘有项目价": "2026-09-24",
-    "中小银行存款利率调整分化学者称未来大概率维持稳中": "2026-09-24",
-    "央行通过CMU发行600亿元人民币央行票据中标利": "2026-09-24",
-    "营收下滑超7成马上消金的换挡时刻IPO搁浅换帅求": "2026-09-24",
-    "930大限将至助贷行业从拼流量转向精细化经营": "2026-09-24",
-    "高盛警告利率上升将率先冲击浮息借款人": "2026-09-24",
     "黑石高管称AI信贷需求仍存在大量未知因素": "2026-09-25",
     "央行规范信贷市场经营行为降低融资中间费用促进社会": "2026-09-25",
     "国家金融监督管理总局行政处罚信息公示列表": "2026-09-25",
@@ -293,6 +279,12 @@
     "房贷贴息免申即享银行主动提醒按月收息时自动扣减": "2026-10-24",
     "互金协会提示债务协商陷阱教唆伪造材料诱导主动逾期": "2026-10-24",
     "贵州剑河农商行被罚60万元内控管理不到位信贷管理": "2026-10-24",
-    "铜川耀州农信联社被罚14万元违反征信管理规定": "2026-10-24"
+    "铜川耀州农信联社被罚14万元违反征信管理规定": "2026-10-24",
+    "信贷资源加力支农支小": "2026-10-25",
+    "贷款增速放缓并非金融支持减弱": "2026-10-25",
+    "央行利率定价换锚利率中枢开始下移": "2026-10-25",
+    "5年期以上LPR报35专家短期内LPR定价基础会": "2026-10-25",
+    "适配住房消费新需求多地发布住房公积金新政": "2026-10-25",
+    "建设银行玉田支行被罚25万元涉农贷款数据不真实": "2026-10-25"
   }
 }
