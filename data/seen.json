@@ -1,11 +1,5 @@
 {
   "urls": {
-    "http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026092917051440583/index.html": "2026-09-30",
-    "https://finance.sina.com.cn/jryx/fd/2026-09-29/doc-initpatz6152590.shtml": "2026-09-30",
-    "https://finance.sina.com.cn/jryx/fd/2026-09-29/doc-initpatz2794151.shtml": "2026-09-30",
-    "https://finance.sina.com.cn/jjxw/2026-09-29/doc-initpatz6076595.shtml": "2026-09-30",
-    "https://finance.sina.com.cn/money/bond/market/2026-09-29/doc-initqefr2560050.shtml": "2026-09-30",
-    "https://finance.sina.com.cn/roll/2026-09-29/doc-initnmwm2938033.shtml": "2026-09-30",
     "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1273762&itemId=915": "2026-10-01",
     "http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026092917474922559/index.html": "2026-10-01",
     "http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026092817582477094/index.html": "2026-10-01",
@@ -140,15 +134,19 @@
     "http://bank.eastmoney.com/a/202610293914769845.html": "2026-10-30",
     "https://finance.sina.com.cn/money/bank/bank_hydt/2026-10-29/doc-iniwwaxf5432785.shtml": "2026-10-30",
     "http://forex.eastmoney.com/a/202610293915052239.html": "2026-10-30",
-    "https://finance.sina.com.cn/money/bank/bank_hydt/2026-10-29/doc-iniwwifc5319110.shtml": "2026-10-30"
+    "https://finance.sina.com.cn/money/bank/bank_hydt/2026-10-29/doc-iniwwifc5319110.shtml": "2026-10-30",
+    "http://forex.eastmoney.com/a/202610313917324529.html": "2026-10-31",
+    "http://finance.eastmoney.com/a/202610313917307314.html": "2026-10-31",
+    "https://finance.sina.com.cn/jryx/bank/2026-10-30/doc-iniwzazq5535692.shtml": "2026-10-31",
+    "https://finance.sina.com.cn/jryx/bank/2026-10-30/doc-iniwzazs2255050.shtml": "2026-10-31",
+    "https://finance.sina.com.cn/jryx/bank/2026-10-30/doc-iniwzazv4645852.shtml": "2026-10-31",
+    "https://finance.sina.com.cn/jryx/bank/2026-10-30/doc-iniwziin5412216.shtml": "2026-10-31",
+    "https://finance.sina.com.cn/jryx/bank/2026-10-30/doc-iniwziin5408059.shtml": "2026-10-31",
+    "https://finance.sina.com.cn/jryx/bank/2026-10-30/doc-iniwzazq5516672.shtml": "2026-10-31",
+    "https://finance.sina.com.cn/jryx/fd/2026-10-30/doc-iniwzprk5383686.shtml": "2026-10-31",
+    "https://finance.sina.com.cn/stock/relnews/cn/2026-10-30/doc-iniwzazt8210562.shtml": "2026-10-31"
   },
   "fps": {
-    "财政部中国人民银行金融监管总局关于实施居民购房贷": "2026-09-30",
-    "安徽马鞍山农村商业银行被罚845万元提供个人不良": "2026-09-30",
-    "魏县农村信用合作联社被罚29万元违反征信管理规定": "2026-09-30",
-    "金融营销新规9月30日落地贷款中介集体消失八成公": "2026-09-30",
-    "提升债券市场服务普惠金融效能附英文版": "2026-09-30",
-    "银行补血利率探至18116万亿二永债大行占近七成": "2026-09-30",
     "财政部中国人民银行金融监管总局有关负责人就实施居": "2026-10-01",
     "中国人民银行调整完善若干货币政策工具": "2026-10-01",
     "中国人民银行等八部门联合印发关于金融支持服务业扩": "2026-10-01",
@@ -293,6 +291,16 @@
     "浙商银行等更新助贷合作名单名单制一年合作机构显著": "2026-10-30",
     "个人经营贷不良出清提速三季度经营贷转让占比升至6": "2026-10-30",
     "宁夏央行资金百亿助宁行动100亿支农支小额度已投": "2026-10-30",
-    "上海推动银行加大中小企业信贷投放加强首贷和信用贷": "2026-10-30"
+    "上海推动银行加大中小企业信贷投放加强首贷和信用贷": "2026-10-30",
+    "政策利率换锚迎来关键一步隔夜逆回购11月2日起每": "2026-10-31",
+    "居民购房贷款贴息满月成效初显刚需房源找房热度升1": "2026-10-31",
+    "工行符合贴息要求的房贷占新发放贷款规模30笔数5": "2026-10-31",
+    "建行消费贷贴息惠及超800万户贴息金额超35亿元": "2026-10-31",
+    "农行9月末个人贷款余额95万亿元增量居可比同业首": "2026-10-31",
+    "工行25家分行已开展DR定价贷款业务发放量居行业": "2026-10-31",
+    "工行普惠贷款余额393万亿元不良率较年初上升但整": "2026-10-31",
+    "工行强化三道口七彩池智能风控大模型赋能全流程": "2026-10-31",
+    "招联消费金融因违反征信管理规定被罚185万元": "2026-10-31",
+    "交行云南分行因房贷等贷款管理不审慎被罚185万元": "2026-10-31"
   }
 }
