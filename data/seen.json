@@ -1,11 +1,5 @@
 {
   "urls": {
-    "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1273762&itemId=915": "2026-10-01",
-    "http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026092917474922559/index.html": "2026-10-01",
-    "http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026092817582477094/index.html": "2026-10-01",
-    "https://finance.sina.com.cn/jryx/fd/2026-09-30/doc-initrfsz1986855.shtml": "2026-10-01",
-    "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-30/doc-initqzmc5806912.shtml": "2026-10-01",
-    "https://finance.sina.com.cn/jryx/hm/2026-09-30/doc-initrfst6863419.shtml": "2026-10-01",
     "https://finance.sina.com.cn/roll/2026-09-30/doc-initrmyx1906778.shtml": "2026-10-02",
     "https://finance.sina.com.cn/roll/2026-09-30/doc-initqquz7046927.shtml": "2026-10-02",
     "https://finance.sina.com.cn/roll/2026-10-02/doc-initvyev4466380.shtml": "2026-10-03",
@@ -144,15 +138,16 @@
     "https://finance.sina.com.cn/jryx/bank/2026-10-30/doc-iniwziin5408059.shtml": "2026-10-31",
     "https://finance.sina.com.cn/jryx/bank/2026-10-30/doc-iniwzazq5516672.shtml": "2026-10-31",
     "https://finance.sina.com.cn/jryx/fd/2026-10-30/doc-iniwzprk5383686.shtml": "2026-10-31",
-    "https://finance.sina.com.cn/stock/relnews/cn/2026-10-30/doc-iniwzazt8210562.shtml": "2026-10-31"
+    "https://finance.sina.com.cn/stock/relnews/cn/2026-10-30/doc-iniwzazt8210562.shtml": "2026-10-31",
+    "http://finance.eastmoney.com/a/202610313917514717.html": "2026-11-01",
+    "https://finance.sina.com.cn/roll/2026-10-31/doc-inixavkz4023066.shtml": "2026-11-01",
+    "http://bank.eastmoney.com/a/202610303917057777.html": "2026-11-01",
+    "https://finance.sina.com.cn/jjxw/2026-10-31/doc-inixakvc7691550.shtml": "2026-11-01",
+    "http://finance.eastmoney.com/a/202610303917004518.html": "2026-11-01",
+    "https://finance.sina.com.cn/jryx/bank/2026-10-30/doc-iniwzazq5520847.shtml": "2026-11-01",
+    "https://finance.sina.com.cn/jryx/fd/2026-10-30/doc-iniwzprk5370728.shtml": "2026-11-01"
   },
   "fps": {
-    "财政部中国人民银行金融监管总局有关负责人就实施居": "2026-10-01",
-    "中国人民银行调整完善若干货币政策工具": "2026-10-01",
-    "中国人民银行等八部门联合印发关于金融支持服务业扩": "2026-10-01",
-    "湖北银行被罚285万元贷款业务管理不审慎等": "2026-10-01",
-    "元道通信欺诈发行年报虚假记载退市整理期投资者可开": "2026-10-01",
-    "IzquierdoSanchezMariaEmi": "2026-10-01",
     "房贷贴息明起实施怎么贴这些问题要清楚": "2026-10-02",
     "PSL利率降至15六张网首获支持央行结构性工具量": "2026-10-02",
     "多家银行继续明确房贷贴息操作细节已审未发贷款可办": "2026-10-03",
@@ -301,6 +296,13 @@
     "工行普惠贷款余额393万亿元不良率较年初上升但整": "2026-10-31",
     "工行强化三道口七彩池智能风控大模型赋能全流程": "2026-10-31",
     "招联消费金融因违反征信管理规定被罚185万元": "2026-10-31",
-    "交行云南分行因房贷等贷款管理不审慎被罚185万元": "2026-10-31"
+    "交行云南分行因房贷等贷款管理不审慎被罚185万元": "2026-10-31",
+    "银行助贷存量局浙商银行23家合作机构中16家仅存": "2026-11-01",
+    "房贷贴息满月楼市结构分化二手房回暖领跑一线修复快": "2026-11-01",
+    "城商行首批三季报说明会杭州银行个贷同比降528关": "2026-11-01",
+    "六大行前三季度日赚超41亿元不良率四降两升": "2026-11-01",
+    "上海银行消费金融新能源汽车消费贷款增2057信用": "2026-11-01",
+    "浦发银行三季度末集团不良贷款率124较上年末下降": "2026-11-01",
+    "山西广灵农村商业银行被罚866万元违反征信管理业": "2026-11-01"
   }
 }
