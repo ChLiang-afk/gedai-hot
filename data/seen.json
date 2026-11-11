@@ -1,8 +1,5 @@
 {
  "urls": {
-  "https://www.163.com/dy/article/L8T9CE0Q0550B6IS.html": "2026-10-12",
-  "https://finance.sina.cn/2026-10-09/detail-iniuqywm6979963.d.html": "2026-10-12",
-  "http://finance.eastmoney.com/a/202610113892033547.html": "2026-10-12",
   "http://bank.eastmoney.com/a/202610123892995086.html": "2026-10-13",
   "https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuypex5254406.shtml": "2026-10-13",
   "http://bank.eastmoney.com/a/202610123892201131.html": "2026-10-13",
@@ -182,12 +179,15 @@
   "https://finance.sina.com.cn/money/bank/gsdt/2026-11-10/doc-iniyhfqw9166935.shtml": "2026-11-11",
   "https://finance.sina.com.cn/money/bank/gsdt/2026-11-10/doc-iniyfzhw2652799.shtml": "2026-11-11",
   "http://forex.eastmoney.com/a/202611103927640174.html": "2026-11-11",
-  "https://finance.sina.com.cn/roll/2026-11-10/doc-iniyfkmf2791086.shtml": "2026-11-11"
+  "https://finance.sina.com.cn/roll/2026-11-10/doc-iniyfkmf2791086.shtml": "2026-11-11",
+  "https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniykqvx2239406.shtml": "2026-11-12",
+  "https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniykkqa9114406.shtml": "2026-11-12",
+  "https://finance.sina.com.cn/money/bank/gsdt/2026-11-11/doc-iniykehe9132945.shtml": "2026-11-12",
+  "https://finance.sina.com.cn/money/bank/bank_hydt/2026-11-11/doc-iniykqvu8325354.shtml": "2026-11-12",
+  "http://finance.eastmoney.com/a/202611113928745220.html": "2026-11-12",
+  "https://m.drdshuichuli.com/articles/daily-8cd14a13a099.html": "2026-11-12"
  },
  "fps": {
-  "河南省直公积金新政物业费取暖费契税可提取最高可贷": "2026-10-12",
-  "上海农商行宝山支行被罚180万个人贷款管理等多项": "2026-10-12",
-  "国庆楼市成交活跃北京新房成交同比增163多地公积": "2026-10-12",
   "房贷贴息正式生效多地银行执行已审未放也能享": "2026-10-13",
   "房贷贴息落地近两周探访广东咨询量有限": "2026-10-13",
   "居民购房贷款贴息政策的四重防线": "2026-10-13",
@@ -376,6 +376,12 @@
   "六大行不良率四降两升零售承压个贷不良率最高升至2": "2026-11-11",
   "广州农商行批量挂牌5331亿元信用卡不良涉及70": "2026-11-11",
   "票据利率持续05地板价四季度票据到期1073万亿": "2026-11-11",
-  "利率自律机制核心成员15家增至18家3家城商行首": "2026-11-11"
+  "利率自律机制核心成员15家增至18家3家城商行首": "2026-11-11",
+  "央行三季度货政报告贷款利率房贷利率均已降至3左右": "2026-11-12",
+  "央行推动贷款利率定价基准改革探索挂钩DR001的": "2026-11-12",
+  "仅农行邮储的零售贷款在增长": "2026-11-12",
+  "互联网贷款自律工作委员会进入成立程序19家助贷平": "2026-11-12",
+  "河南省直公积金装修提取最高15万元标准1500元": "2026-11-12",
+  "十月银行业被罚超九千万元信贷类罚单82张占比51": "2026-11-12"
  }
 }
