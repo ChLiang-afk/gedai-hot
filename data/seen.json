@@ -1,12 +1,5 @@
 {
  "urls": {
-  "http://bank.eastmoney.com/a/202610123892995086.html": "2026-10-13",
-  "https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuypex5254406.shtml": "2026-10-13",
-  "http://bank.eastmoney.com/a/202610123892201131.html": "2026-10-13",
-  "http://finance.eastmoney.com/a/202610123892927876.html": "2026-10-13",
-  "http://finance.eastmoney.com/a/202610133893082815.html": "2026-10-13",
-  "http://finance.eastmoney.com/a/202610123893024642.html": "2026-10-13",
-  "https://finance.sina.com.cn/money/bank/gsdt/2026-10-12/doc-iniuyhxe0550308.shtml": "2026-10-13",
   "http://finance.eastmoney.com/a/202610143894563175.html": "2026-10-14",
   "http://finance.eastmoney.com/a/202610123892782661.html": "2026-10-14",
   "http://finance.eastmoney.com/a/202610133894309245.html": "2026-10-14",
@@ -185,16 +178,18 @@
   "https://finance.sina.com.cn/money/bank/gsdt/2026-11-11/doc-iniykehe9132945.shtml": "2026-11-12",
   "https://finance.sina.com.cn/money/bank/bank_hydt/2026-11-11/doc-iniykqvu8325354.shtml": "2026-11-12",
   "http://finance.eastmoney.com/a/202611113928745220.html": "2026-11-12",
-  "https://m.drdshuichuli.com/articles/daily-8cd14a13a099.html": "2026-11-12"
+  "https://m.drdshuichuli.com/articles/daily-8cd14a13a099.html": "2026-11-12",
+  "https://finance.sina.com.cn/money/bank/bank_hydt/2026-11-12/doc-iniynpnv1168832.shtml": "2026-11-13",
+  "http://bank.eastmoney.com/a/202611123929653487.html": "2026-11-13",
+  "https://finance.sina.com.cn/jryx/bank/2026-11-12/doc-iniynppa8474102.shtml": "2026-11-13",
+  "http://finance.eastmoney.com/a/202611123929935667.html": "2026-11-13",
+  "https://finance.sina.com.cn/roll/2026-11-12/doc-iniyniff3861312.shtml": "2026-11-13",
+  "http://bank.eastmoney.com/a/202611133930073379.html": "2026-11-13",
+  "https://finance.sina.com.cn/china/gncj/2026-11-12/doc-iniynaxi3807491.shtml": "2026-11-13",
+  "http://bank.eastmoney.com/a/202611093925727082.html": "2026-11-13",
+  "http://finance.eastmoney.com/a/202611123929756019.html": "2026-11-13"
  },
  "fps": {
-  "房贷贴息正式生效多地银行执行已审未放也能享": "2026-10-13",
-  "房贷贴息落地近两周探访广东咨询量有限": "2026-10-13",
-  "居民购房贷款贴息政策的四重防线": "2026-10-13",
-  "贷款额度最高上浮100多地加码多孩公积金": "2026-10-13",
-  "南京落地公积金全国异地贷款政策": "2026-10-13",
-  "69变231四部门定调金融消费纠纷裁判": "2026-10-13",
-  "南京银行处置超12亿个贷不良转手不良资产": "2026-10-13",
   "对助贷机构不宜一卡了之": "2026-10-14",
   "房贷贴息后有购房者利率降至2": "2026-10-14",
   "多城住房公积金提取新政落地": "2026-10-14",
@@ -382,6 +377,15 @@
   "仅农行邮储的零售贷款在增长": "2026-11-12",
   "互联网贷款自律工作委员会进入成立程序19家助贷平": "2026-11-12",
   "河南省直公积金装修提取最高15万元标准1500元": "2026-11-12",
-  "十月银行业被罚超九千万元信贷类罚单82张占比51": "2026-11-12"
+  "十月银行业被罚超九千万元信贷类罚单82张占比51": "2026-11-12",
+  "零售高增长退潮谁扛起银行信贷增量": "2026-11-13",
+  "AI换脸伪造材料金融黑灰产职业化警方破获非法催收": "2026-11-13",
+  "交通银行副行长周万阜下半年以来零售信贷不良率增长": "2026-11-13",
+  "山西十五五拟培育800户名特优新个体户预计投放1": "2026-11-13",
+  "拉卡拉注销小贷牌照信贷资产出清再落一子": "2026-11-13",
+  "农业信贷担保增信助融资": "2026-11-13",
+  "岚图梦想家发布0首付5年0息购车政策至高贴息54": "2026-11-13",
+  "科技创新需要优化信贷模式": "2026-11-13",
+  "张家港行在涉农及小微贷款占比九成左右的情况下持续": "2026-11-13"
  }
 }
